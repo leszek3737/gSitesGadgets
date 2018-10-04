@@ -5,7 +5,11 @@
     </ModulePrefs>
     <Content type="html">
         <![CDATA[
+          <script type="text/javascript">
+    console.log("test")
+  </script>
   Hello Word
   ]]>
+
     </Content>
 </Module>
